@@ -8,7 +8,7 @@
   
   
   
-   ![](icons.ico)
+   ![](https://github.com/iconboot/box.time/blob/master/icon.ico?raw=true)
    
 
 Works on Windows
