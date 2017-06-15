@@ -1,0 +1,23 @@
+C:\Users\iconboot\AppData\Local\Temporary Projects\box Time\bin\Debug\box Time.exe
+C:\Users\iconboot\AppData\Local\Temporary Projects\box Time\bin\Debug\box Time.pdb
+C:\Users\iconboot\AppData\Local\Temporary Projects\box Time\bin\Debug\box Time.xml
+C:\Users\iconboot\AppData\Local\Temporary Projects\box Time\obj\x86\Debug\box_Time.Form1.resources
+C:\Users\iconboot\AppData\Local\Temporary Projects\box Time\obj\x86\Debug\box_Time.Resources.resources
+C:\Users\iconboot\AppData\Local\Temporary Projects\box Time\obj\x86\Debug\box Time.vbproj.GenerateResource.Cache
+C:\Users\iconboot\AppData\Local\Temporary Projects\box Time\obj\x86\Debug\box Time.exe
+C:\Users\iconboot\AppData\Local\Temporary Projects\box Time\obj\x86\Debug\box Time.xml
+C:\Users\iconboot\AppData\Local\Temporary Projects\box Time\obj\x86\Debug\box Time.pdb
+G:\code\Visual Basic\box Time\box Time\obj\x86\Debug\box Time.exe
+G:\code\Visual Basic\box Time\box Time\obj\x86\Debug\box Time.xml
+G:\code\Visual Basic\box Time\box Time\obj\x86\Debug\box Time.pdb
+G:\code\Visual Basic\box Time\box Time\obj\x86\Debug\box_Time.Form1.resources
+G:\code\Visual Basic\box Time\box Time\obj\x86\Debug\box_Time.Resources.resources
+G:\code\Visual Basic\box Time\box Time\obj\x86\Debug\box Time.vbproj.GenerateResource.Cache
+G:\code\Visual Basic\box Time\box Time\bin\Debug\box Time.exe
+G:\code\Visual Basic\box Time\box Time\bin\Debug\box Time.pdb
+G:\code\Visual Basic\box Time\box Time\bin\Debug\box Time.xml
+G:\code\Visual Basic\box Time\box Time\obj\x86\Debug\box_Time.Form2.resources
+G:\code\Visual Basic\box Time\box Time\obj\x86\Debug\box_Time.Form3.resources
+G:\code\Visual Basic\box Time\box Time\obj\x86\Debug\box_Time.Form4.resources
+G:\code\Visual Basic\box Time\box Time\obj\x86\Debug\box_Time.Form5.resources
+G:\code\Visual Basic\box Time\box Time\bin\Debug\box Time.exe.config
