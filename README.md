@@ -8,7 +8,7 @@
   
   
   
-   ![](https://github.com/iconboot/box.time/blob/master/icon.ico?raw=true)
+   ![](https://github.com/iconboot/box.time/blob/master/box%20Time/1490655279_box_wooden.ico?raw=true)
    
 
 Works on Windows
