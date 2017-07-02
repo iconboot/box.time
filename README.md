@@ -1,5 +1,5 @@
 # welcome to Box Time by [(iconboot)](https://twitter.com/iconboot)
-                                       
+                                   
                                        
                                        
                   
@@ -13,11 +13,15 @@
 
 Works on Windows
 
-Windows10 Windows8
+NET Framework 4
+
+Windows10 and Windows8
  
- | install | Version |
+
+| install | Version |
  |---------|----------|
  |  [Link](https://github.com/iconboot/box.time/blob/master/box%20Time/bin/Debug/box%20time.exe?raw=true)  |  2.1.3  |
 
  
- # Thanks for your use.
+
+# Thanks for your use.
