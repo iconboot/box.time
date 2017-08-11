@@ -84,7 +84,7 @@ Partial Class Form4
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(113, 20)
         Me.TextBox1.TabIndex = 7
-        Me.TextBox1.Text = "https://iconboot.github.io/Hex/"
+        Me.TextBox1.Text = "https://iconboot.github.io/Hex/dex"
         Me.TextBox1.Visible = False
         '
         'Form4
