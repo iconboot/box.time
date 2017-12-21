@@ -19,11 +19,14 @@ NET Framework 4
 Windows10 and Windows8
 
 
+* [Check the SHA1 hash](https://www.virustotal.com/#/home/url) of the downloaded file (optional but recommended).
 
-| install | Version |
- |---------|----------|
- |  [Link](https://github.com/iconboot/box.time/blob/master/box%20Time/bin/Debug/box%20time.exe?raw=true)  |  2.1.3  |
+ 
+ | Version | Download | SHA1 |
+|---------|----------|------|
+| Beta 2  | [Link](https://github.com/iconboot/box.time/blob/master/box%20Time/bin/Debug/box%20time.exe?raw=true) | 34615A6E072FBCF6C08EE8A0E0844A053D31711D  |
 
+ 
  
 
 # Thanks for your use.
