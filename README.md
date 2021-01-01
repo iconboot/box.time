@@ -24,7 +24,7 @@ Windows10 and Windows8
  
  | Version | Download | SHA1 |
 |---------|----------|------|
-| Beta 2  | [Link](https://github.com/iconboot/box.time/blob/master/box%20Time/bin/Debug/box%20time.exe?raw=true) | 34615A6E072FBCF6C08EE8A0E0844A053D31711D  |
+| v3.0.1  | [Link](https://github.com/iconboot/box.time/blob/master/box%20Time/bin/Debug/box%20time.exe?raw=true) | cd760da343dd196a7f4e8f79644ff262  |
 
  
  
