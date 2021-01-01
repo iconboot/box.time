@@ -76,6 +76,8 @@
             se_input.Enabled = True
             count.Enabled = False
             Shell("shutdown -a")
+            Process.Start("cmd.exe", "/c netsh interface set interface Ethernet admin=ENABLE")
+            Process.Start("cmd.exe", "/c netsh interface set interface Wi-Fi admin=ENABLE")
             set_button.Enabled = True
             set_button.Show()
             main_button.Hide()
@@ -126,9 +128,11 @@
             totaltime -= 1
         Else
             Shell("shutdown /s /t 60")
+            Process.Start("cmd.exe", "/c netsh interface set interface Ethernet admin=DISABLED")
+            Process.Start("cmd.exe", "/c netsh interface set interface Wi-Fi admin=DISABLED")
             count.Enabled = False
             se_label.ForeColor = Color.Black
-            If MsgBox("Close after 1 minutes", MsgBoxStyle.Critical, "Time is over !") Then
+            If MsgBox("Goodbye friend", MsgBoxStyle.Critical, "Time is over !") Then
 
                 hr_label.Hide()
                 mn_label.Hide()
@@ -164,7 +168,7 @@
     Private Sub Form6_KeyUp(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles Me.KeyUp
 
         If e.KeyCode = Keys.T Then
-            Process.Start("http://ico.esy.es/com")
+            Process.Start("https://iconboot.github.io")
         End If
         If e.KeyCode = Keys.E Then
             Form4.Show()

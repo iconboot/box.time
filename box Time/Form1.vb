@@ -38,7 +38,7 @@
             Label8.Show()
         End If
         If e.KeyCode = Keys.T Then
-            Process.Start("http://ico.esy.es/com")
+            Process.Start("https://iconboot.github.io")
         End If
         If e.KeyCode = Keys.F1 Then
             Form2.Show()
@@ -89,7 +89,7 @@
         If Diff > 102 Then
 
             If MsgBox("Goto help ", vbQuestion + vbYesNo) = vbYes Then
-                Process.Start("https://www.facebook.com/Iconrobot")
+                Process.Start("https://www.facebook.com/lconboot")
             End If
             End
 

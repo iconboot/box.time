@@ -118,15 +118,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="TextBox1.Text" xml:space="preserve">
-    <value>
-                       Thank you for 
+    <value>                         
+Thank you for 
 
  Is a very useful program in saving time and 
  completing business in as little time as possible
  Many suffer from forgetting to shut down the 
   computer machine .                                                      
- The size: 589 KB
- Version:  2.1.3 Beta</value>
+ The size: 590 KB
+ Version:  3.0.1</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">

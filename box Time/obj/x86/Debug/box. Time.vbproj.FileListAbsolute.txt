@@ -80,3 +80,18 @@ C:\Users\iconboot\Downloads\box.time\box Time\obj\x86\Debug\box_Time.Form5.resou
 C:\Users\iconboot\Downloads\box.time\box Time\obj\x86\Debug\box_Time.Form6.resources
 C:\Users\iconboot\Downloads\box.time\box Time\obj\x86\Debug\box_Time.Resources.resources
 C:\Users\iconboot\Downloads\box.time\box Time\obj\x86\Debug\box. Time.vbproj.GenerateResource.Cache
+C:\Users\iconboot\Desktop\box.time-master\box Time\bin\Debug\box Time.exe.config
+C:\Users\iconboot\Desktop\box.time-master\box Time\obj\x86\Debug\box Time.exe
+C:\Users\iconboot\Desktop\box.time-master\box Time\obj\x86\Debug\box Time.xml
+C:\Users\iconboot\Desktop\box.time-master\box Time\obj\x86\Debug\box Time.pdb
+C:\Users\iconboot\Desktop\box.time-master\box Time\bin\Debug\box Time.exe
+C:\Users\iconboot\Desktop\box.time-master\box Time\bin\Debug\box Time.pdb
+C:\Users\iconboot\Desktop\box.time-master\box Time\bin\Debug\box Time.xml
+C:\Users\iconboot\Desktop\box.time-master\box Time\obj\x86\Debug\box_Time.Form1.resources
+C:\Users\iconboot\Desktop\box.time-master\box Time\obj\x86\Debug\box_Time.Form2.resources
+C:\Users\iconboot\Desktop\box.time-master\box Time\obj\x86\Debug\box_Time.Form3.resources
+C:\Users\iconboot\Desktop\box.time-master\box Time\obj\x86\Debug\box_Time.Form4.resources
+C:\Users\iconboot\Desktop\box.time-master\box Time\obj\x86\Debug\box_Time.Form5.resources
+C:\Users\iconboot\Desktop\box.time-master\box Time\obj\x86\Debug\box_Time.Form6.resources
+C:\Users\iconboot\Desktop\box.time-master\box Time\obj\x86\Debug\box_Time.Resources.resources
+C:\Users\iconboot\Desktop\box.time-master\box Time\obj\x86\Debug\box. Time.vbproj.GenerateResource.Cache

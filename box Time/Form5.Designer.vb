@@ -73,12 +73,13 @@ Partial Class Form5
         Me.TextBox1.Enabled = False
         Me.TextBox1.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox1.ForeColor = System.Drawing.SystemColors.Window
-        Me.TextBox1.Location = New System.Drawing.Point(0, -4)
+        Me.TextBox1.Location = New System.Drawing.Point(0, 2)
         Me.TextBox1.Multiline = True
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(284, 180)
+        Me.TextBox1.Size = New System.Drawing.Size(282, 171)
         Me.TextBox1.TabIndex = 7
         Me.TextBox1.Text = resources.GetString("TextBox1.Text")
+        Me.TextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'Form5
         '

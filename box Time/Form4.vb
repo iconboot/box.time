@@ -17,7 +17,7 @@
     Private Sub Form4_KeyUp(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles Me.KeyUp
 
         If e.KeyCode = Keys.T Then
-            Process.Start("http://ico.esy.es/com")
+            Process.Start("https://iconboot.github.io")
         End If
         If e.KeyCode = Keys.B Then
             Form5.Show()

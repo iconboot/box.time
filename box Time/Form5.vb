@@ -12,7 +12,7 @@
 
     Private Sub Form5_KeyUp(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles Me.KeyUp
         If e.KeyCode = Keys.T Then
-            Process.Start("http://ico.esy.es/com")
+            Process.Start("https://iconboot.github.io")
         End If
         If e.KeyCode = Keys.F1 Then
             Form2.Show()
@@ -41,5 +41,9 @@
             Form1.Show()
             Me.Hide()
         End If
+    End Sub
+
+    Private Sub TextBox1_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox1.TextChanged
+
     End Sub
 End Class
